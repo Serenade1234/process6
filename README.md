@@ -4,5 +4,5 @@ Process6, from series of algorithm "Process Compendium" by Casey REAS <https://r
 <p>
 His beautiful and great clear rules create amazing patterns.
 <p>
-![0003117](https://user-images.githubusercontent.com/52326196/98558475-d074ba80-22e8-11eb-8c09-5e64fdfa1fbb.png)
 
+![0021353](https://user-images.githubusercontent.com/52326196/98559929-8d1b4b80-22ea-11eb-885e-5f04fa94ea5c.png)
